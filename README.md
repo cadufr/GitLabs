@@ -1,6 +1,7 @@
 # GitLabs
 
  Calculadora para as opções: 
- -Somar
- -Subtrair
- -Multiplicar
+ - Somar
+ - Subtrair
+ - Multiplicar
+ - Dividir
